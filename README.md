@@ -1,6 +1,6 @@
 # Tetris
 
-![Tetris](https://github.com/simon-qi/Tetris/blob/master/tetris%20screenshot.PNG)
+![Tetris](https://github.com/simon-qi/Tetris/blob/master/tetris.screenshot.PNG)
 
 Tetris game written in C++ by Jonathan Zhao (https://github.com/qaovxtazypdl) and me
 
